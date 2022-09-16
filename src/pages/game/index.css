@@ -1,0 +1,43 @@
+.max-width{
+    max-width:1300px;
+    width: 90vw;
+}
+
+.sly{
+    background:linear-gradient(70deg, rgba(170,170,170,1) 25%, rgba(42,98,61,1) 50%);
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.gry{
+    background:linear-gradient(70deg, rgba(238,186,48,1) 25%, rgb(46, 5, 5) 50%);
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.huf{
+    background:linear-gradient(70deg, rgba(0,0,0,1) 15%, rgb(197, 179, 74) 50%);
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.rav{
+    background:linear-gradient(70deg, rgb(56, 54, 51) 25%, rgb(57, 80, 155) 50%);
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.title-quiz{
+    font-size: xx-large;
+    margin-bottom: 2vh;
+    font-weight: bold;
+    color: white;
+}

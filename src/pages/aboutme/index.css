@@ -1,0 +1,52 @@
+.aboutmebackground p{
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.aboutmebackground h1{
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 0;
+    text-align: center;
+}
+
+.aboutmebackground h2{
+    font-family: 'Montserrat', sans-serif !important;    
+    font-size: 40px;
+}
+
+.purple-grey{
+    color: rgb(236, 127, 250);
+    }
+
+
+.text-container{
+    padding:0vw 5vw 2vw 5vw;
+    max-width: 1300px;
+    /* background: rgb(255,255,255);
+    background: linear-gradient(45deg, rgba(255,255,255,1) 0%, rgba(227,206,255,1) 85%, rgba(255,255,255,1) 100%);   */
+}
+
+.cat{
+    background-image: url("./images/cat.png");
+    background-repeat: no-repeat, no-repeat;
+    background-position: center; 
+    background-size: 300px;
+    height: 200px;
+    opacity: 0.8;
+}
+
+.icon-social{
+    margin: 10px;
+    color: rgb(59, 32, 77);
+    font-size: 35px;
+}
+
+.icon-social:hover{
+    color: rgb(166, 54, 170);
+    font-size: 35px;
+}
