@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/metcamp2022final/static/css/main.e901a5a3.css",
+    "main.js": "/metcamp2022final/static/js/main.85aeef1f.js",
+    "static/js/787.58a0304a.chunk.js": "/metcamp2022final/static/js/787.58a0304a.chunk.js",
+    "static/media/backgroundhp.png": "/metcamp2022final/static/media/backgroundhp.e30076f658b404a2a967.png",
+    "static/media/snape-approves.jfif": "/metcamp2022final/static/media/snape-approves.7b0ccc190124f6c88ec6.jfif",
+    "static/media/cat.png": "/metcamp2022final/static/media/cat.4b74cc72bdba3487fd10.png",
+    "static/media/dafuq.jfif": "/metcamp2022final/static/media/dafuq.b387bcca6672274df1a7.jfif",
+    "index.html": "/metcamp2022final/index.html",
+    "main.e901a5a3.css.map": "/metcamp2022final/static/css/main.e901a5a3.css.map",
+    "main.85aeef1f.js.map": "/metcamp2022final/static/js/main.85aeef1f.js.map",
+    "787.58a0304a.chunk.js.map": "/metcamp2022final/static/js/787.58a0304a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e901a5a3.css",
+    "static/js/main.85aeef1f.js"
+  ]
+}
